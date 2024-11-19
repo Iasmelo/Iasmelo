@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a0dad&size=35&center=true&vCenter=true&width=1000&lines=+I'm+Iasmym+Melo!;Welcome+To+My+Github!;Let's+Explore+Tech+Together!)](https://git.io/typing-svg)
 
@@ -19,6 +18,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%236a0dad?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer"/>
