@@ -14,36 +14,37 @@
   <p align="left">
     <!-- Primeiro repositório -->
     <a href="https://github.com/Iasmelo/forms_portal">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=forms_portal&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="forms_portal">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=forms_portal&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Forms Portal">
     </a>
     <!-- Segundo repositório -->
     <a href="https://github.com/Iasmelo/PawsPull_Cats">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=PawsPull_Cats&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="PawsPull_Cats">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=PawsPull_Cats&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Paws Pull Cats">
     </a>
     <!-- Terceiro repositório -->
     <a href="https://github.com/Iasmelo/intro_logic_6">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=intro_logic_6&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="intro_logic_6">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=intro_logic_6&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Intro to Logic 6">
     </a>
     <!-- Quarto repositório -->
     <a href="https://github.com/Iasmelo/Plano-de-Carreira">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=Plano-de-Carreira&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Plano-de-Carreira">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=Plano-de-Carreira&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Career Plan">
     </a>
     <!-- Quinto repositório -->
     <a href="https://github.com/Iasmelo/my_future_portfolio">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=my_future_portfolio&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_future_portfolio">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=my_future_portfolio&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="My Future Portfolio">
     </a>
     <!-- Sexto repositório -->
     <a href="https://github.com/Iasmelo/instagram_clone_react">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=instagram_clone_react&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="instagram_clone_react">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmelo&repo=instagram_clone_react&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Instagram Clone React">
     </a>
   </p>
 
   <!-- Botão para acessar todos os repositórios -->
-<a href="https://github.com/Iasmelo?tab=repositories">
-  <img alt="All Repositories" title="Click here to see all my repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20to%20view%20all%20repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-</a>
+  <a href="https://github.com/Iasmelo?tab=repositories">
+    <img alt="All Repositories" title="Click here to view all my repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20to%20view%20all%20repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 
 </details>
+
 
 
 
