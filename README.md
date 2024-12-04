@@ -59,8 +59,9 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-6A0DAD.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-6A0DAD.svg?logo=google-sheets&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-6A0DAD.svg?logo=visual-studio-code&logoColor=white"></a>
-     <a href="#"><img alt="intellij Idea" src="https://img.shields.io/badge/Visual%20Studio%20Code-6A0DAD.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+https://ssr-contributions-svg.vercel.app/_/Iasmelo?chart=calendar&weeks=15&theme=purple&widget_size=medium&dark=true
 
 
