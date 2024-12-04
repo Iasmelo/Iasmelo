@@ -62,11 +62,6 @@
   </p>
 </details>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Iasmelo?chart=calendar&weeks=15&theme=purple&widget_size=medium&dark=true) 
-
-</div>
 
 
 
